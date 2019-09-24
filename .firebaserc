@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "winnerenglish-5f8d3"
+  },
+  "targets": {
+    "winnerenglish-5f8d3": {
+      "hosting": {
+        "website": [
+          "website-winner"
+        ]
+      }
+    }
+  }
+}
